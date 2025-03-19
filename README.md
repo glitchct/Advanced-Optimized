@@ -1,12 +1,7 @@
 # Advanced Optmized
-
-**News!**
-
-Advanced Optimized is changing to 1.21.4 . There will still be updates for the 1.21/1.21.1 version until July, 19, 2025. 
+---------------------------
 
 **Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
-
-Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
 
 **Performance**
 
