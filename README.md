@@ -1,5 +1,5 @@
 # Advanced Optmized
----------------------------
+
 
 **Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
 
