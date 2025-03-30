@@ -1,8 +1,8 @@
 # Advanced Optmized
 
-> [!WARNING]
-> Updates for 1.21 / 1.21.1 will be discountinued in July, 19, 2025         
-> More Info on the "Update and Discountinued" Tab
+> [!WARNING] 
+> The Lifecyle for Advanced Optmized 1.21 / 1.21.1 will be end in July, 19, 2025.                
+> Please Update to the newest Version for more improvments. Current New version 1.4.1 Release (Hotfix does not count.)          
 
 
 **Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
