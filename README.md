@@ -9,7 +9,7 @@
 
 **Performance**
 
-The Performence of Advanced Optimized is even faster than Fabulously Optimized + Simple Optimized. Advaneced Optimized uses modern Performance mods like Sodium, Iris Shader, Lithium, Better FPS and so on. The fast performance of Advanced Optimized helps Low End PC to get higher FPS than **Normal Minecraft.**
+The Performence of Advanced Optimized is even faster than Fabulously Optimized + Simple Optimized. Advaneced Optimized uses modern Performance mods like Sodium, Iris Shader, Lithium, Better FPS and so on. The fast performance of Advanced Optimized helps Low End PC to get higher FPS than **Normal Minecraft, Fabulously Optimized, Simple Optmized.**
 
 **Made & Build with Fabric**
 
