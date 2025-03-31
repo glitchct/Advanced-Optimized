@@ -5,7 +5,7 @@
 > Please Update to the newest Version for more improvments. Current New version 1.4.1 Release       
 
 
-**Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
+**Advanced Optimized works with AMD Vega, RDNA / Navi 1-3 | nVidia GeForce, GT, GTX, RTX**
 
 **Performance**
 
