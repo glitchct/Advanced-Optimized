@@ -18,4 +18,4 @@ Fabric Mod Loader is a lightweight, fast, Mod Loader and supports many mods on M
 
 **Open Source**
 
-Advanced Optimized is an Open-Source Modpack, which means you can do anything with the modpack. I recommend not changing/removing any Mods from the modpack. If you do remove/change any mods, support for our modpack (In case it crashes) will be limited.
+Advanced Optimized is an Open-Source Modpack, which means you can do anything with the modpack. I recommend not changing/removing any Mods from the modpack. If you do remove/change any mods, support for your modpack (In case it crashes) will be limited.
