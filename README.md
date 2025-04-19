@@ -1,6 +1,6 @@
 # Advanced Optmized
 
-> [!NOTICE] 
+> ![Notice]
 > The Newest Version of AO (1.5+mc1.21.4-beta-2) contains a mod only for NVIDIA Graphics Cards.    
 > We are currently working on geting/creating a mod which is compatible with AMD, Intel and NVIDIA           
 > AMD or Intel Graphics Card will still work with the newest Version of Advanced Optimized.          
