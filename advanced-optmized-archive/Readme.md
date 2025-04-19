@@ -10,4 +10,4 @@ Nothing will happen because the Modpack Version is unsupported / does not have S
 
 -------------
 If you want a newer version of the Modpack, download it from Modrinth.   
-Current Version of Advanced Optimized (AO) : Version 1.4.1
+Current Version of Advanced Optimized (AO) : Version 1.5 Beta 1 & 2
