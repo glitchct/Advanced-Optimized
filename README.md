@@ -5,7 +5,6 @@
 > We are currently working on geting/creating a mod which is compatible with AMD, Intel and NVIDIA           
 > AMD or Intel Graphics Card will still work with the newest Version of Advanced Optimized.          
 
-
 **Advanced Optimized works with AMD Vega, RDNA / Navi 1-3 | nVidia GeForce, GT, GTX, RTX | Intel Graphics Card**
 
 **Performance**
