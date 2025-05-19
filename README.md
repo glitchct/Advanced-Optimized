@@ -1,15 +1,21 @@
-# Advanced Optmized
 
-              
-> The Newest Version of AO (1.5+mc1.21.4-beta-2) contains a mod only for NVIDIA Graphics Cards.    
-> We are currently working on geting/creating a mod which is compatible with AMD, Intel and NVIDIA           
-> AMD or Intel Graphics Card will still work with the newest Version of Advanced Optimized.          
+# Discontinued.
+ 
+Advanced Optimized is shutting down. You may be asking why Advanced Optimized is Discontinued?
+The Unreleased Version (Phase Alpha) 1.5.1 has been crashing a lot in the development. We have tried to bypass it,
+but no luck. The New planed Advanced Graphics, will no longer be released. 
 
-**Advanced Optimized works with AMD Vega, RDNA / Navi 1-3 | nVidia GeForce, GT, GTX, RTX | Intel Graphics Card**
+A new modpack called Aerium is in development and is the continuation of Advanced Optimized + Advanced Graphics.
+
+-------
+ 
+**Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
+
+Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
 
 **Performance**
 
-The performence of Advanced Optimized is even faster than Fabulously Optimized + Simple Optimized. Advaneced Optimized uses modern performance mods like Sodium, Iris Shader, Lithium, Better FPS and so on. The fast performance of Advanced Optimized helps Low End PC to get higher FPS than **Normal Minecraft, Fabulously Optimized, Simple Optmized.**
+The Performence of Advanced Optimized is even faster than Fabulously Optimized + Simple Optimized. Advaneced Optimized uses modern Performance mods like Sodium, Iris Shader, Lithium, Better FPS and so on. The fast performance of Advanced Optimized helps Low End PC to get higher FPS than **Normal Minecraft.**
 
 **Made & Build with Fabric**
 
@@ -17,4 +23,4 @@ Fabric Mod Loader is a lightweight, fast, Mod Loader and supports many mods on M
 
 **Open Source**
 
-Advanced Optimized is an Open-Source Modpack, which means you can do anything with the modpack. I recommend not changing/removing any Mods from the modpack. If you do remove/change any mods, support for your modpack (In case it crashes) will be limited.
+Advanced Optimized is an Open-Source Modpack, which means you can do anything with the modpack. So feel free to do anything with the Modpack(Well not the mods)
