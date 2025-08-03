@@ -1,11 +1,7 @@
 
-# Discontinued.
+# Discontinued Not Anymore.
  
-Advanced Optimized is shutting down. You may be asking why Advanced Optimized is Discontinued?
-The Unreleased Version (Phase Alpha) 1.5.1 has been crashing a lot in the development. We have tried to bypass it,
-but no luck. The New planed Advanced Graphics, will no longer be released. 
-
-A new modpack called Aerium is in development and is the continuation of Advanced Optimized + Advanced Graphics.
+Advanced Optimized is Officialy Back. New Versions of AO are Comming. Aerium will still be Countinued.
 
 -------
  
