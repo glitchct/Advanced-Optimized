@@ -1,8 +1,4 @@
-
-# Discontinued Not Anymore.
- 
-Advanced Optimized is Officialy Back. New Versions of AO are Comming. Aerium will still be Countinued.
-
+Sorry for the long break. My PC broke, and i had to wait.
 -------
  
 **Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
