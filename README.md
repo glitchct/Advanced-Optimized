@@ -1,6 +1,3 @@
-Sorry for the long break. My PC broke, and i had to wait.
--------
- 
 **Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
 
 Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
