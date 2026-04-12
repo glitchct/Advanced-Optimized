@@ -1,4 +1,4 @@
-**Advanced Optimized works with AMD Vega, RDNA Instruction Set / Nvidia GT, GTX, RTX**
+## Advanced Optimized will not update to 26.x versions. AO will remain on 1.21.x.
 
 Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
 
