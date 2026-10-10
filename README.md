@@ -1,6 +1,4 @@
-## Advanced Optimized will not update to 26.x versions. AO will remain on 1.21.x.
-
-Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
+## Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
 
 **Performance**
 
