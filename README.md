@@ -1,8 +1,9 @@
-## Advanced Optimized, a well mixed Modpack from Simple Optimized and Fabulously Optimized.
+
+## Advanced Optimized, a modpack with optimizations.
 
 **Performance**
 
-The Performence of Advanced Optimized is even faster than Fabulously Optimized + Simple Optimized. Advaneced Optimized uses modern Performance mods like Sodium, Iris Shader, Lithium, Better FPS and so on. The fast performance of Advanced Optimized helps Low End PC to get higher FPS than **Normal Minecraft.**
+Advanced Optimized uses optimization mods like Sodium, Chunky and CCME to improve gameplay stability and performance while mantaining a stabilized framerate.
 
 **Made & Build with Fabric**
 
@@ -10,4 +11,4 @@ Fabric Mod Loader is a lightweight, fast, Mod Loader and supports many mods on M
 
 **Open Source**
 
-Advanced Optimized is an Open-Source Modpack, which means you can do anything with the modpack. So feel free to do anything with the Modpack(Well not the mods)
+Advanced Optimized is an Open-Source Modpack, which means you can do anything with the modpack and most of the mods are open-source too.  
